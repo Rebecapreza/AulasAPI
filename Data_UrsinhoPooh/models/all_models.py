@@ -1,0 +1,1 @@
+from models.personagens_model import PersonagensModel
